@@ -54,6 +54,6 @@ Here are some ideas to get you started:
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enes-sahinn&show_icons=true&locale=en&layout=compact&theme=jolly" alt="enes-sahinn" /></p>
+<p><img align="left" src="https://github-readme-stats.shion.dev/api/top-langs?username=enes-sahinn&show_icons=true&locale=en&layout=compact&theme=jolly" alt="enes-sahinn" /></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=enes-sahinn&show_icons=true&locale=en&theme=jolly" alt="enes-sahinn" width=478/>
+<img align="center" src="https://github-readme-stats.shion.dev/api?username=enes-sahinn&show_icons=true&locale=en&theme=jolly" alt="enes-sahinn" width=478/>
